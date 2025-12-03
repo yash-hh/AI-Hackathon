@@ -54,7 +54,7 @@ Upload a brand logo and product image, and the system generates:
 ### 1. Clone the repository
 
 ```
-git clone <repo-url>
+git clone https://github.com/yash-hh/AI-Hackathon.git
 cd ai-creative-studio
 ```
 
@@ -67,7 +67,7 @@ cd backend
 ### 3. Create .env
 
 ```
-cp .env.example .env
+.env
 ```
 
 Fill in:
