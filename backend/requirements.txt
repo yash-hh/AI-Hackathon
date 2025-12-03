@@ -1,0 +1,30 @@
+# # --- FastAPI and server ---
+# fastapi
+# uvicorn[standard]
+
+# # --- Upload, IO, images ---
+# python-multipart
+# pillow
+# numpy
+
+# # --- HTTP requests to APIs ---
+# requests
+
+# # --- Environment variables ---
+# python-dotenv
+
+# # --- Optional dev tools ---
+# # ipykernel
+# # black
+# # httpx
+
+fastapi
+uvicorn[standard]
+
+python-multipart
+pillow
+numpy
+requests
+python-dotenv
+
+streamlit
