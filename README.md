@@ -122,34 +122,6 @@ ai_creatives_bundle.zip
 └── captions.csv
 ```
 
-## 📌 Limitations
-
-- Depends on inference latency  
-- Product image not used visually  
-
-## 🧭 Future Work
-
-- Local GPU support  
-- Style templates  
-- Aspect ratio presets  
-- Background removal  
-
-## 🏆 Why It Solves H-003
-
-This solution delivers:
-
-- Automated creative generation  
-- Brand consistency  
-- Captions  
-- Bulk export  
-- Clean architecture  
-
-## 🙌 Acknowledgements
-
-- Stable Diffusion (via Hugging Face)  
-- Gemini (Google AI)  
-- Streamlit & FastAPI  
-
 ## 📄 License
 
 MIT
